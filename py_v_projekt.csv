@@ -1,0 +1,81 @@
+﻿first_name,last_name,age,course,study_hours,satisfaction,level
+Jonas,Schulz,49,Python Basics,1.1,5.6,Beginner
+David,Müller,24,Deep Learning,0.8,8.7,Beginner
+Lina,Wagner,39,Pandas,1.4,7.5,Beginner
+Elif,Müller,45,Pandas,9.0,6.8,Beginner
+Jonas,Weber,19,SQL,6.7,7.8,Beginner
+Noah,Wagner,59,SQL,2.6,7.5,Intermediate
+Clara,Wagner,23,SQL,0.7,8.4,Intermediate
+Jonas,Schulz,45,Python Basics,5.2,9.1,Beginner
+Lina,Fischer,45,Pandas,2.1,5.9,Beginner
+Elif,Fischer,37,SQL,4.3,3.9,Beginner
+David,Müller,47,Python Basics,2.4,6.7,Beginner
+Lina,Wagner,28,Python Basics,3.4,5.8,Beginner
+Lina,Fischer,45,Deep Learning,0.9,8.4,Intermediate
+Clara,Fischer,42,Pandas,12.3,6.2,Beginner
+Fatima,Müller,56,Python Basics,4.2,4.6,Intermediate
+Elif,Fischer,50,Deep Learning,4.1,6.4,Intermediate
+Ben,Kaya,18,Deep Learning,4.8,5.1,Beginner
+Lina,Schmidt,44,Pandas,0.6,9.4,Intermediate
+Fatima,Schulz,30,Deep Learning,8.1,7.9,Beginner
+Ben,Schmidt,58,Python Basics,3.3,8.1,Beginner
+Elif,Müller,20,Python Basics,2.0,8.0,Beginner
+Anna,Weber,56,SQL,5.0,8.4,Intermediate
+Noah,Schulz,23,SQL,1.2,8.8,Beginner
+Fatima,Müller,25,Deep Learning,0.5,6.4,Intermediate
+Mehmet,Wagner,44,Pandas,11.0,5.2,Intermediate
+Anna,Weber,26,Deep Learning,2.2,6.0,Beginner
+Noah,Schmidt,54,Deep Learning,0.9,7.1,Intermediate
+Clara,Müller,50,Deep Learning,2.9,3.6,Beginner
+Jonas,Wagner,59,SQL,4.3,8.8,Beginner
+David,Schulz,41,SQL,5.5,4.5,Beginner
+Mehmet,Schulz,32,Pandas,10.3,8.0,Beginner
+Clara,Hoffmann,49,Pandas,2.6,7.0,Intermediate
+Elif,Wagner,49,Deep Learning,2.2,7.6,Beginner
+Clara,Kaya,41,Deep Learning,3.1,6.5,Beginner
+Jonas,Fischer,58,Python Basics,2.4,7.5,Intermediate
+Elif,Weber,29,Python Basics,7.6,6.5,Beginner
+Mehmet,Wagner,56,Pandas,2.9,6.4,Beginner
+Jonas,Hoffmann,19,Pandas,5.4,5.9,Intermediate
+Ben,Fischer,20,Deep Learning,21.0,9.3,Intermediate
+David,Fischer,54,Python Basics,4.0,7.7,Beginner
+Mehmet,Müller,34,Python Basics,4.8,7.5,Intermediate
+Ben,Fischer,19,Pandas,6.9,6.0,Intermediate
+Noah,Kaya,19,Python Basics,1.6,6.9,Beginner
+Mehmet,Schulz,45,Pandas,4.3,5.8,Beginner
+Noah,Hoffmann,40,SQL,7.8,6.5,Beginner
+Elif,Fischer,54,SQL,5.1,5.5,Beginner
+Ben,Müller,49,Python Basics,1.8,9.4,Beginner
+David,Kaya,50,Pandas,2.1,6.1,Beginner
+Jonas,Schmidt,18,Pandas,0.9,6.0,Beginner
+Lina,Schulz,36,Pandas,7.7,5.3,Beginner
+Clara,Schulz,19,Python Basics,1.4,6.1,Beginner
+Anna,Hoffmann,43,Pandas,8.4,6.5,Beginner
+David,Schulz,49,Deep Learning,1.5,7.1,Beginner
+Ben,Fischer,23,Pandas,8.7,6.3,Intermediate
+Lina,Müller,49,Deep Learning,5.1,5.0,Beginner
+David,Schulz,21,Pandas,3.5,5.1,Intermediate
+Ben,Schulz,28,Pandas,11.5,8.2,Beginner
+Fatima,Schmidt,34,Pandas,10.5,7.0,Intermediate
+Fatima,Schmidt,55,SQL,5.2,8.1,Beginner
+Noah,Weber,41,Deep Learning,0.9,8.3,Intermediate
+David,Kaya,22,Python Basics,6.2,7.4,Beginner
+Fatima,Fischer,51,Pandas,1.4,5.5,Beginner
+Ben,Schulz,23,Pandas,5.7,7.5,Intermediate
+Noah,Wagner,39,SQL,0.3,9.2,Beginner
+Ben,Schulz,28,Python Basics,2.3,6.6,Beginner
+Noah,Müller,33,Deep Learning,3.0,7.7,Beginner
+David,Weber,50,Pandas,2.7,7.2,Beginner
+Lina,Kaya,26,Python Basics,7.1,9.1,Beginner
+Jonas,Wagner,23,Deep Learning,1.1,6.3,Beginner
+Mehmet,Weber,33,SQL,0.0,8.8,Intermediate
+Lina,Hoffmann,46,Deep Learning,7.7,6.7,Beginner
+Elif,Kaya,20,Python Basics,2.9,6.2,Beginner
+Ben,Schulz,37,Pandas,4.5,7.4,Beginner
+Elif,Schulz,53,Pandas,4.7,7.7,Beginner
+Lina,Kaya,36,Deep Learning,10.4,9.9,Beginner
+Noah,Schulz,43,Python Basics,6.7,7.6,Intermediate
+Mehmet,Fischer,20,Python Basics,5.3,7.5,Beginner
+Mehmet,Kaya,36,Python Basics,1.0,9.4,Beginner
+Anna,Weber,37,Python Basics,2.8,8.0,Beginner
+Mehmet,Kaya,49,Pandas,3.9,6.3,Beginner
