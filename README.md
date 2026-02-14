@@ -2,18 +2,16 @@
 
 Deep Learning foundations with Python and TensorFlow - from Python basics to building and evaluating neural networks (Fashion-MNIST case study).
 
----
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK.ipynb)
 
-### Willkommen 👋
-
+## Willkommen 👋
 Herzlich willkommen zum Kurs  
 **„Deep Learning mit Python & TensorFlow“**
 
 Dieses Dokument erklärt, wie Sie die bereitgestellten Notebooks nutzen.
 
----
 
-### 📂 Kursmaterialien
+## 📂 Kursmaterialien
 
 Sie erhalten folgende Dateien:
 
@@ -24,8 +22,6 @@ Sie erhalten folgende Dateien:
 
 Die Notebooks sind interaktive Dateien, die Sie mit **Jupyter Notebook** oder **Google Colab** öffnen können.
 
----
-
 ### 🖥 Option 1: Nutzung mit Google Colab (Empfohlen)
 
 **Vorteil:** Keine Installation notwendig.
@@ -35,7 +31,6 @@ Die Notebooks sind interaktive Dateien, die Sie mit **Jupyter Notebook** oder **
 3. Laden Sie die `.ipynb` Datei hoch  
 4. Führen Sie Codezellen mit `Shift + Enter` aus  
 
----
 
 ### 💻 Option 2: Nutzung lokal auf Ihrem Computer
 
@@ -57,6 +52,8 @@ pip install notebook
 jupyter notebook
 ```
 
+
+## 📂 Kursinhalt
 ### 📊 Day 1 – Python & Data Analysis
 
 **Topics covered:**
@@ -66,8 +63,6 @@ jupyter notebook
 - Working with Pandas  
 - Data visualization (Matplotlib / Seaborn)  
 - Mini project: Exploratory Data Analysis  
-
----
 
 ### 🤖 Day 2 – Deep Learning
 
@@ -79,9 +74,8 @@ You will build a neural network using:
 - Training & test split  
 - Accuracy evaluation  
 
----
 
-### 🗂 Dataset: Fashion-MNIST
+## 🗂 Dataset: Fashion-MNIST
 
 Fashion-MNIST is a dataset of grayscale images of clothing items.
 
@@ -92,7 +86,6 @@ Fashion-MNIST is a dataset of grayscale images of clothing items.
 
 The model learns to classify images into the correct category.
 
----
 
 ### ▶️ Execution Notes
 
@@ -100,7 +93,6 @@ The model learns to classify images into the correct category.
 - If errors occur: restart the kernel/runtime.  
 - In Colab: **Runtime → Restart runtime**
 
----
 
 ### ❗ Common Issues
 
@@ -110,9 +102,8 @@ The model learns to classify images into the correct category.
 | Kernel freezes | Restart kernel |
 | Memory error | Restart runtime |
 
----
 
-### 🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 After completing this course, participants will be able to:
 
@@ -122,9 +113,8 @@ After completing this course, participants will be able to:
 - Train and evaluate a simple Deep Learning model  
 - Understand real-world applications of Deep Learning  
 
----
 
-### 🔭 Next Steps
+## 🔭 Next Steps
 
 To continue learning:
 
@@ -134,11 +124,11 @@ To continue learning:
 - Participate in Kaggle competitions  
 - Study TensorFlow documentation  
 
----
 
-### 👩‍🏫 Instructor
 
-Dr. Chiao-Ya Chang
+## 👩‍🏫 Instructor
+
+### Dr. Chiao-Ya Chang
 
 PhD | Data Scientist | AI Trainer
 
