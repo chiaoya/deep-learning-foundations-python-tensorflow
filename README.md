@@ -15,22 +15,23 @@ Dieses Dokument erklärt, wie Sie die bereitgestellten Notebooks nutzen.
 
 Sie erhalten folgende Dateien:
 
-- `DL_Day1VM_Python.ipynb` → Python Grundlagen & Pandas (Vormittag)
-- `DL_Day1VM_Python.ipynb` → Python Grundlagen & Pandas  (Nachmittag)
+- `DL_Day1_morning_Python.ipynb` → Python Grundlagen & Pandas (Vormittag)
+- `DL_Day1_afternoon_Python.ipynb` → Python Grundlagen & Pandas  (Nachmittag)
 - `DL_Day2_Tensorflow.ipynb` → Neuronales Netz mit Fashion-MNIST  
 - Präsentationsfolien (PDF oder PPT)
 
 Die Notebooks sind interaktive Dateien, die Sie mit **Jupyter Notebook** oder **Google Colab** öffnen können.
 
-### 🖥 Option 1: Nutzung mit Google Colab (Empfohlen)
+### 📥 Option 1: Direktnutzung über GitHub mit Google Colab (Empfohlen)
 
-**Vorteil:** Keine Installation notwendig.
+**Vorteil**: Kein Download oder Installation auf Ihrem Computer erforderlich. Die Dateien werden direkt aus GitHub geladen.
 
-1. Öffnen Sie: https://colab.research.google.com  
-2. Klicken Sie auf **„Datei hochladen“**  
-3. Laden Sie die `.ipynb` Datei hoch  
-4. Führen Sie Codezellen mit `Shift + Enter` aus  
-
+1. Colab öffnen: Gehen Sie auf https://colab.research.google.com.
+2. GitHub-Tab wählen: Klicken Sie im Pop-up-Fenster auf den Reiter „GitHub“.
+3. Repository suchen: Geben Sie die URL ein: https://github.com/chiaoya/Deep-Learning-Foundations-Python-Tensorflow
+4. Datei öffnen: Wählen Sie die gewünschte .ipynb Datei aus der Liste aus. Sie wird sofort in Colab geladen.
+5. Code ausführen: Starten Sie die Codezellen mit Shift + Enter.
+6. Hinweis zum Speichern: Da Sie keinen Schreibzugriff (Token) haben, können Änderungen nicht direkt im Kurs-Repository gespeichert werden. Sie können jedoch eine Kopie auf Ihrem eigenen Google Drive speichern (Datei > Kopie in Drive speichern).
 
 ### 💻 Option 2: Nutzung lokal auf Ihrem Computer
 
